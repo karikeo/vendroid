@@ -1,0 +1,26 @@
+<resources>
+<dimen name="activity_horizontal_margin">17.6dp</dimen>
+<dimen name="activity_vertical_margin">17.6dp</dimen>
+<dimen name="space_line">1.1dp</dimen>
+<dimen name="space_3">3.3dp</dimen>
+<dimen name="space_5">5.5dp</dimen>
+<dimen name="space_10">11dp</dimen>
+<dimen name="space_12">13.2dp</dimen>
+<dimen name="space_15">16.5dp</dimen>
+<dimen name="space_20">22dp</dimen>
+<dimen name="space_25">27.5dp</dimen>
+<dimen name="space_30">33dp</dimen>
+<dimen name="space_35">38.5dp</dimen>
+<dimen name="space_40">44dp</dimen>
+<dimen name="space_50">55dp</dimen>
+<dimen name="space_60">66dp</dimen>
+<dimen name="space_70">77dp</dimen>
+<dimen name="space_80">88dp</dimen>
+<dimen name="space_100">110dp</dimen>
+<dimen name="space_150">165dp</dimen>
+<dimen name="space_190">209dp</dimen>
+<dimen name="space_210">231dp</dimen>
+<dimen name="space_250">275dp</dimen>
+<dimen name="space_300">330dp</dimen>
+<dimen name="space_330">363dp</dimen>
+</resources>
